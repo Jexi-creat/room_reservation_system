@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello person!\n";
+    std::cout << "Hello man!\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
